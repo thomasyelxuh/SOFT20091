@@ -1,0 +1,2 @@
+Mathematics,MATH101
+Physics,PHYS102
